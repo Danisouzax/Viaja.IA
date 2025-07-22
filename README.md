@@ -29,21 +29,12 @@
 ViajaAI/
 
 │
-
 ├── api/
-
 │ └── recommend.js # Função serverless para chamada da API da Cohere
-
 │
-
 ├── public/
-
 │ ├── index.html # Página principal do projeto
-
 │ ├── style.css # Estilo da aplicação
-
 │ └── script.js # Script JS para envio do formulário e exibição da resposta
-
 │
-
 ├── vercel.json # Roteamento da função API na Vercel
