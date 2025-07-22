@@ -17,11 +17,8 @@
 
 ## 🧠 Tecnologias utilizadas
 
-- **HTML**, **CSS** e **JavaScript Vanilla**
+- **HTML**, **CSS** e **JavaScript**
 - **API Cohere** (para gerar recomendações inteligentes)
-- **Vercel Functions** (função serverless com Node.js)
-- **Hospedagem via Vercel**
-
 ---
 ## 📂 Pastas
 api/recommend.js: Função serverless com integração Cohere
