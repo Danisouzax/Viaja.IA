@@ -23,3 +23,15 @@
 - **Hospedagem via Vercel**
 
 ---
+## 📂 Pastas
+api/recommend.js: Função serverless com integração Cohere
+
+vercel.json: Configuração da Vercel
+
+public/index.html: Página HTML
+
+public/style.css: Estilo da interface
+
+public/script.js: Lógica de interação com a API
+
+🔑 Chave Cohere (gp5qq9JYpubovdLjEToELJD2Y1EG8LDQGcHDjhYm)
