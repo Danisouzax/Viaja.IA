@@ -2,8 +2,6 @@
 
 **Viaja.AI** é um assistente de viagens inteligente que usa **IA da Cohere** para recomendar destinos personalizados com base no clima, interesses e data de viagem informados pelo usuário.
 
-🔗 [Acesse a versão online do projeto](https://iaviajar.netlify.app/)
-
 ---
 
 ## 🚀 Funcionalidades
